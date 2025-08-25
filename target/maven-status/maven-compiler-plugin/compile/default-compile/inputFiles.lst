@@ -1,0 +1,7 @@
+D:\internship\javaFx new project\Backend\movie_management\src\main\java\com\example\movieapi\MovieApiApplication.java
+D:\internship\javaFx new project\Backend\movie_management\src\main\java\com\example\movieapi\exception\GlobalExceptionHandler.java
+D:\internship\javaFx new project\Backend\movie_management\src\main\java\com\example\movieapi\exception\ResourceNotFoundException.java
+D:\internship\javaFx new project\Backend\movie_management\src\main\java\com\example\movieapi\service\MovieService.java
+D:\internship\javaFx new project\Backend\movie_management\src\main\java\com\example\movieapi\model\Movie.java
+D:\internship\javaFx new project\Backend\movie_management\src\main\java\com\example\movieapi\dao\MovieRepository.java
+D:\internship\javaFx new project\Backend\movie_management\src\main\java\com\example\movieapi\controller\MovieController.java
